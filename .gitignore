@@ -1,0 +1,7 @@
+.terraform/
+terraform-log*
+*.tfplan
+.DS_Store
+getter*/
+kubeconfig*
+*.png
